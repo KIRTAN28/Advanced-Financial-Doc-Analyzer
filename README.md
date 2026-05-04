@@ -57,17 +57,13 @@ python -m uvicorn api:app --reload
 
 ```
 S-45/
-  .env                    # API keys (not committed)
-  .gitignore
   requirements.txt
   generate_dataset.py     # Generates dummy SH-7 dataset
   agent.py                # CLI agent script
   api.py                  # FastAPI server with HTML frontend
-  test_api.py             # Automated API test script
   prompts.md              # Compiled list of prompts used
   system_design.md        # System design document
   README.md               # This file
-  Assignment File/        # Sample SH-7 & PAS-3 reference data
   dataset/                # Generated dummy dataset
     incorporation/
     event_1/
@@ -84,17 +80,3 @@ S-45/
 | `GET` | `/` | Landing page with upload form |
 | `POST` | `/process` | HTML response with classification + capital change table |
 | `POST` | `/api/process` | Pure JSON response for programmatic access |
-
-## Deployment (Railway / Render)
-
-This project includes a `Procfile` making it ready for instant deployment on PaaS providers like Railway.
-1. Push this repository to GitHub.
-2. Connect the repository to Railway.
-3. Add your `OPENAI_API_KEY` to the environment variables in Railway.
-4. The service will automatically build and start using: `uvicorn api:app --host 0.0.0.0 --port $PORT`
-
-## Expected Deliverables
-
-1. **GitHub repo** with dataset, agent code, and output table
-2. **`prompts.md`** — compiled list of prompts used
-3. **`system_design.md`** — system design document
