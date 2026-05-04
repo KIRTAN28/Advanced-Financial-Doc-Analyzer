@@ -1,0 +1,14 @@
+pydantic
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-core
+langgraph
+fastapi
+uvicorn
+python-multipart
+pymupdf
+aiofiles
+jinja2
+httpx

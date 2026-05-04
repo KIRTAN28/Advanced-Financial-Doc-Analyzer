@@ -1,0 +1,153 @@
+{
+  "NEXUS BRIGHTLEARN SOLUTIONS PRIVATE LIMITED": {
+    "MOA": [
+      {
+        "meeting_date": "February 05, 2018",
+        "meeting_type": "Incorporation",
+        "from_capital": "NA",
+        "to_capital": "Rs 1,50,000 divided into 15,000 Equity Shares of Rs 10 each",
+        "source_documents": [
+          "Nexus_MOA.md"
+        ],
+        "confidence_flags": []
+      }
+    ],
+    "SH-7": [
+      {
+        "meeting_date": "March 22, 2018",
+        "meeting_type": "EGM",
+        "from_capital": "Rs 1,50,000 divided into 15,000 Equity Shares of Rs 10 each",
+        "to_capital": "Rs 3,00,000 divided into 30,000 Equity Shares of Rs 10 each",
+        "source_documents": [
+          "Nexus_event_1_Board_Meeting.md",
+          "Nexus_event_1_EGM_Minutes.md",
+          "Nexus_event_1_Notice_EGM.md",
+          "Nexus_event_1_SH7.md"
+        ],
+        "confidence_flags": []
+      },
+      {
+        "meeting_date": "September 15, 2020",
+        "meeting_type": "EGM",
+        "from_capital": "Rs 3,00,000 divided into 30,000 Equity Shares of Rs 10 each",
+        "to_capital": "Rs 10,00,000 divided into 1,00,000 Equity Shares of Rs 10 each",
+        "source_documents": [
+          "Nexus_event_2_Board_Meeting.md",
+          "Nexus_event_2_EGM_Minutes.md",
+          "Nexus_event_2_Notice_EGM.md",
+          "Nexus_event_2_SH7.md"
+        ],
+        "confidence_flags": []
+      },
+      {
+        "meeting_date": "March 10, 2023",
+        "meeting_type": "AGM",
+        "from_capital": "Rs 10,00,000 divided into 1,00,000 Equity Shares of Rs 10 each",
+        "to_capital": "Rs 1,00,00,000 divided into 10,00,000 Equity Shares of Rs 10 each",
+        "source_documents": [
+          "Nexus_event_3_AGM_Minutes.md",
+          "Nexus_event_3_Board_Meeting.md",
+          "Nexus_event_3_Notice_AGM.md",
+          "Nexus_event_3_SH7.md"
+        ],
+        "confidence_flags": []
+      },
+      {
+        "meeting_date": "September 29, 2025",
+        "meeting_type": "AGM",
+        "from_capital": "Rs 1,00,00,000 divided into 10,00,000 Equity Shares of Rs 10 each",
+        "to_capital": "Rs 11,00,00,000 divided into 1,09,90,000 Equity Shares of Rs 10 each",
+        "source_documents": [
+          "Nexus_event_4_AGM_Minutes.md",
+          "Nexus_event_4_Board_Meeting.md",
+          "Nexus_event_4_Notice_AGM.md",
+          "Nexus_event_4_SH7.md"
+        ],
+        "confidence_flags": []
+      }
+    ],
+    "PAS-3": [
+      {
+        "meeting_date": "May 15, 2019",
+        "meeting_type": "EGM",
+        "from_capital": "NA",
+        "to_capital": "Allotment of 960 shares",
+        "source_documents": [
+          "Nexus_PAS3_Board_Resolution_Allotment.md",
+          "Nexus_PAS3_Form.md",
+          "Nexus_PAS3_List_of_Allottees.md"
+        ],
+        "confidence_flags": []
+      }
+    ]
+  },
+  "PINNACLE INFRATECH SOLUTIONS PRIVATE LIMITED": {
+    "MOA": [
+      {
+        "meeting_date": "June 12, 2019",
+        "meeting_type": "Incorporation",
+        "from_capital": "NA",
+        "to_capital": "Rs 1,00,000 divided into 10,000 Equity Shares of Rs 10 each",
+        "source_documents": [
+          "Pinnacle_MOA.md"
+        ],
+        "confidence_flags": []
+      }
+    ],
+    "SH-7": [
+      {
+        "meeting_date": "November 18, 2020",
+        "meeting_type": "EGM",
+        "from_capital": "Rs 1,00,000 divided into 10,000 Equity Shares of Rs 10 each",
+        "to_capital": "Rs 5,00,000 divided into 50,000 Equity Shares of Rs 10 each",
+        "source_documents": [
+          "Pinnacle_event_1_Board_Meeting.md",
+          "Pinnacle_event_1_EGM_Minutes.md",
+          "Pinnacle_event_1_Notice_EGM.md",
+          "Pinnacle_event_1_SH7.md"
+        ],
+        "confidence_flags": []
+      },
+      {
+        "meeting_date": "August 5, 2022",
+        "meeting_type": "EGM",
+        "from_capital": "Rs 5,00,000 divided into 50,000 Equity Shares of Rs 10 each",
+        "to_capital": "Rs 25,00,000 divided into 2,50,000 Equity Shares of Rs 10 each",
+        "source_documents": [
+          "Pinnacle_event_2_Board_Meeting.md",
+          "Pinnacle_event_2_EGM_Minutes.md",
+          "Pinnacle_event_2_Notice_EGM.md",
+          "Pinnacle_event_2_SH7.md"
+        ],
+        "confidence_flags": []
+      },
+      {
+        "meeting_date": "March 20, 2024",
+        "meeting_type": "AGM",
+        "from_capital": "Rs 25,00,000 divided into 2,50,000 Equity Shares of Rs 10 each",
+        "to_capital": "Rs 5,00,00,000 divided into 50,00,000 Equity Shares of Rs 10 each",
+        "source_documents": [
+          "Pinnacle_event_3_AGM_Minutes.md",
+          "Pinnacle_event_3_Board_Meeting.md",
+          "Pinnacle_event_3_Notice_AGM.md",
+          "Pinnacle_event_3_SH7.md"
+        ],
+        "confidence_flags": []
+      }
+    ],
+    "PAS-3": [
+      {
+        "meeting_date": "January 20, 2021",
+        "meeting_type": "EGM",
+        "from_capital": "NA",
+        "to_capital": "Rs 1,00,000 divided into 10,000 Equity Shares of Rs 10 each",
+        "source_documents": [
+          "Pinnacle_PAS3_Board_Resolution_Allotment.md",
+          "Pinnacle_PAS3_Form.md",
+          "Pinnacle_PAS3_List_of_Allottees.md"
+        ],
+        "confidence_flags": []
+      }
+    ]
+  }
+}
