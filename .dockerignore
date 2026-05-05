@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.git/
+.gitignore
+README.md
+system_design.md
+prompts.md
+output_table.md
+output.json
